@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Aster (Anti-Blue)",
+      "img": "https://lunettes.com.bd/wp-content/uploads/2020/08/ASTER-front.jpg",
+      "price": 1150
+    },
+    {
+      "id": 2,
+      "name": "Jester (Anti-blue)",
+      "img": "https://lunettes.com.bd/wp-content/uploads/2020/08/JESTER-front.jpg",
+      "price": 1450
+    },
+    {
+      "id": 3,
+      "name": "Redux (Anti-blue)",
+      "img": "https://lunettes.com.bd/wp-content/uploads/2020/08/REDUX-front.jpg",
+      "price": 1590
+    },
+    {
+      "id": 4,
+      "name": "Raven (Anti-blue)",
+      "img": "https://lunettes.com.bd/wp-content/uploads/2020/08/RAVEN-front.jpg",
+      "price": 1050
+    },
+    {
+      "id": 5,
+      "name": "Benoit Black (Anti-blue)",
+      "img": "https://lunettes.com.bd/wp-content/uploads/2022/04/Benoit-Black-1-600x600.jpg",
+      "price": 1220
+    },
+    {
+      "id": 6,
+      "name": "Hannibal",
+      "img": "https://lunettes.com.bd/wp-content/uploads/2022/04/HANNIBAL-EYEGLASSES-FRONT-600x600.jpg",
+      "price": 950
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Mridul",
+      "address": "Mymensingh",
+      "productId": 3,
+      "shipment_status": "express"
+    },
+    {
+      "id": 2,
+      "name": "Mridul",
+      "address": "Dhaka",
+      "productId": 1,
+      "shipment_status": "regular"
+    },
+    {
+      "id": 3,
+      "name": "Mridul",
+      "address": "Rajshahi",
+      "productId": 4,
+      "shipment_status": "regular"
+    },
+    {
+      "name": "Mridul Das",
+      "address": "Pabna",
+      "productId": "4",
+      "shipment_status": "regular",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "server-advance-react-assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mridul Das",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "json-server --watch db.json --no-cors true --port 5000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
